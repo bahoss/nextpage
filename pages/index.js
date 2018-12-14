@@ -23,7 +23,7 @@ And here's the content.
 
      .markdown a {
        text-decoration: none;
-       color: blue;
+       color: red;
      }
 
      .markdown a:hover {
